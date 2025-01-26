@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body{
+    background-color: #f0eee6;
+}
+
+.modal-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+}
